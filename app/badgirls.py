@@ -39,3 +39,7 @@ class AESUtility:
     @staticmethod
     def generate_timestamp() -> int:
         return int(time.time() * 1000)
+
+
+LINK APP : https://app-earnings-link.com/badGirls/gezuy57ho1bpnov5t
+BUILD WITH YOUR OWN !!!
