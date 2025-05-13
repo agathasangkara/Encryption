@@ -5,7 +5,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
 class Utility:
-    AES_KEY = bytes.fromhex("e7743aeb495e7918f9af6ffd515e9xx") # guess the last 3 numbers
+    AES_KEY = bytes.fromhex("e7743aeb495e7918f9af6ffd515e9xxx") # guess the last 3 numbers
 
     @staticmethod
     def aes_encrypt(data: dict) -> str:
